@@ -1,0 +1,7 @@
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\bin\Debug\netstandard2.0\ExamenPersona.deps.json
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\bin\Debug\netstandard2.0\ExamenPersona.dll
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\obj\Debug\netstandard2.0\ExamenPersona.csprojAssemblyReference.cache
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\obj\Debug\netstandard2.0\ExamenPersona.AssemblyInfoInputs.cache
+C:\Users\Rassmir\VisualProjects\ExamenPersona\ExamenPersona\obj\Debug\netstandard2.0\ExamenPersona.AssemblyInfo.cs
